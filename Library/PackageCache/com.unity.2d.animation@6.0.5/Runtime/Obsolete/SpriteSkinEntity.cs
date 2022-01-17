@@ -1,15 +1,3 @@
-using UnityEngine;
-using UnityEngine.Scripting;
-
-namespace UnityEngine.U2D.Animation
-{
-    [AddComponentMenu("")]
-    [System.Obsolete]
-    internal class SpriteSkinEntity : MonoBehaviour
-    {
-        void OnEnable()
-        {
-            Debug.LogWarning("SpriteSkinEntity will be removed in 2D Animation 7.0", this);
-        }
-    } 
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:291ef8b157cc5591622fdcf52b38d8473654c4a4b6893369ef6ff15588ed3804
+size 352

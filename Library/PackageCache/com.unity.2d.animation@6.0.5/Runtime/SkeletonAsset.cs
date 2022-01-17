@@ -1,22 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-namespace UnityEngine.U2D.Animation
-{
-    public class SkeletonAsset : ScriptableObject
-    {
-        [SerializeField] private SpriteBone[] m_SpriteBones;
-
-        public SpriteBone[] GetSpriteBones()
-        {
-            return m_SpriteBones;
-        }
-
-        public void SetSpriteBones(SpriteBone[] spriteBones)
-        {
-            m_SpriteBones = spriteBones;
-        }
-    }    
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:385f91f71182ee5c3434c26462714fdb7e38cf61cfcb4b8e699815822057a90d
+size 493

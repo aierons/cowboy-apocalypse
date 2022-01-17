@@ -1,5 +1,3 @@
-# Introduction
-
-This package provides common code functionality to edit 2D polygonal shapes and B-splines in custom ``EditorWindow`` and ``SceneView``. 
-
-The package is currently for internal use only, and not meant for public use at this time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:888a711834c05fc0a4b25e9220736f48426f8129b49e30f5f1609a9213ca71d1
+size 250

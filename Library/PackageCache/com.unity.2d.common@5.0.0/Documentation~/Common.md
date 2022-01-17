@@ -1,7 +1,3 @@
-2D Common
-
-# Introduction
-
-This package contains shared code used by various 2D packages such as Sprite Shape and 2D Animation.
-
-The package is currently for internal use only, and not meant for public use at this time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cbaa50e436a1765771ce25663b481c0fb218b12d9755674c4c95b46ba833a86
+size 227
